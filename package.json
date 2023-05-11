@@ -1,0 +1,15 @@
+{
+  "name": "@reanimatedmanx/extensions",
+  "version": "0.0.0",
+  "private": "true",
+  "description": "Personal extensions for full-stack development and beyond",
+  "keywords": [
+    "Extensions",
+    "Snippets",
+    "VSCode",
+    "Gist"
+  ],
+  "author": "Reanimated Man X <mail@rmx.codes>",
+  "license": "MIT",
+  "scripts": {}
+}
