@@ -1,3 +1,3 @@
-# rmx.extensions
+# rmx.vsc-extensions
 
-🎴 Personal extensions for full-stack development and beyond
+🎴 Personal VSCode extensions for full-stack development
