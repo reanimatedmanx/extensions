@@ -1,7 +1,10 @@
 {
   "name": "@reanimatedmanx/extensions",
   "version": "0.0.0",
-  "private": "true",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
+  },
   "description": "Personal extensions for full-stack development and beyond",
   "keywords": [
     "Extensions",
