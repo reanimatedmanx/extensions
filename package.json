@@ -14,5 +14,8 @@
   ],
   "author": "Reanimated Man X <mail@rmx.codes>",
   "license": "MIT",
-  "scripts": {}
+  "scripts": {},
+  "devDependencies": {
+    "generator-code": "^1.7.6"
+  }
 }

@@ -1,0 +1,21 @@
+{
+  "name": "extensions-common",
+  "displayName": "extensions.common",
+  "description": "Common snippets for language support",
+  "publisher": "reanimatedmanx",
+  "version": "0.0.0",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
