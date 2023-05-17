@@ -10,6 +10,9 @@
   "categories": [
     "Snippets"
   ],
+  "repository": {
+    "url": "https://github.com/reanimatedmanx/vsc-extensions"
+  },
   "contributes": {
     "snippets": [
       {
@@ -17,5 +20,8 @@
         "path": "./snippets/snippets.code-snippets"
       }
     ]
+  },
+  "scripts": {
+    "vsc:publish": "vsce publish"
   }
 }

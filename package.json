@@ -16,6 +16,7 @@
   "license": "MIT",
   "scripts": {},
   "devDependencies": {
+    "@vscode/vsce": "^2.19.0",
     "generator-code": "^1.7.6"
   }
 }
