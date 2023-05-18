@@ -1,6 +1,7 @@
 {
   "name": "@reanimatedmanx/vsc-extensions",
   "version": "0.0.0",
+  "publisher": "rmx",
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com"

@@ -2,7 +2,7 @@
   "name": "extensions-common",
   "displayName": "extensions.common",
   "description": "Common snippets for language support",
-  "publisher": "reanimatedmanx",
+  "publisher": "rmx",
   "version": "0.0.0",
   "engines": {
     "vscode": "^1.78.0"
