@@ -15,7 +15,9 @@
   ],
   "author": "Reanimated Man X <mail@rmx.codes>",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "vsce:login": "vsce login rmx"
+  },
   "devDependencies": {
     "@vscode/vsce": "^2.19.0",
     "generator-code": "^1.7.6"
