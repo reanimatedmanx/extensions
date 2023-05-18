@@ -1,6 +1,6 @@
 {
   "name": "extensions-common",
-  "displayName": "extensions.common",
+  "displayName": "RMX's Common Extension",
   "description": "Common snippets for language support",
   "publisher": "rmx",
   "version": "0.0.0",
